@@ -5,7 +5,28 @@ Airports:
   Charlie:
     - PDX
   Delta:
+    - ALW
     - BFI
     - BLI
-    - PAE
+    - EUG
     - GEG
+    - HIO
+    - LMT
+    - LWS
+    - MFR
+    - MWH
+    - NUW
+    - OLM
+    - OTH
+    - PAE
+    - PDT
+    - PSC
+    - RDM
+    - RNT
+    - SFF
+    - SLE
+    - TCM
+    - TIW
+    - TTD
+    - UAO
+    - YKM
